@@ -1,0 +1,146 @@
+.uber {
+    color: white;
+    background-color: black;
+    border-style: none;
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.uber:hover {
+    background-color: green;
+}
+
+.uber:active {
+    opacity: 0.5;
+}
+
+.amazon {
+    color: black;
+    background-color: rgb(255, 216, 20);
+    border-style: none;
+    height: 35px;
+    width: 180px;
+    border-radius: 18px;
+    font-size: 15px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.github {
+    color: white;
+    background-color: rgb(46, 164, 79);
+    border-style: none;
+    height: 40px;
+    width: 110px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.bs-start {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border-style: none;
+    background-color: rgb(121, 82, 179);
+    height: 40px;
+    width: 130px;
+    border-radius: 4px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.bs-download {
+    color: rgb(108, 117, 125);
+    background-color: white;
+    border-color: rgb(108, 117, 125);
+    border-radius: 4px;
+    border-style: solid;
+    height: 40px;
+    width: 130px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 4px;
+    cursor: pointer;
+}
+
+.linked-apply {
+    color: white;
+    background-color: rgb(10, 102, 194);
+    border-style: none;
+    border-radius: 100px;
+    height: 40px;
+    width: 200px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 50px;
+    transition: box-shadow 0.15s;
+}
+
+.linked-apply:hover {
+    box-shadow: 5px 5px 10px black;
+
+}
+
+.linked-save {
+    color: rgb(10, 102, 194);
+    background-color: white;
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+    border-radius: 40px;
+    height: 40px;
+    width: 80px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 6px;
+}
+
+.linked-save:hover {
+    background-color: rgb(10, 102, 194);
+    color: white;
+}
+
+.price {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+
+.cart {
+    background-color: rgb(255, 216, 20);
+    border-style: none;
+    height: 30px;
+    width: 120px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.cart:hover {
+    opacity: 0.8;
+}
+
+.cart:active {
+    opacity: 0.5;
+}
+
+.buy {
+    background-color: rgb(255, 164, 28);
+    border-style: none;
+    height: 30px;
+    width: 120px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: opacity 0.3s;
+
+}
+
+.buy:hover {
+    opacity: 0.8;
+}
+
+.buy:active {
+    opacity: 0.5;
+}
