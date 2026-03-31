@@ -134,6 +134,7 @@
     border-radius: 20px;
     cursor: pointer;
     transition: opacity 0.3s;
+    margin-right: 40px;
 
 }
 
@@ -143,4 +144,69 @@
 
 .buy:active {
     opacity: 0.5;
+}
+
+.backb {
+    padding: 4px 6px 4px 6px;
+}
+
+.nextb {
+    padding: 4px 6px 4px 6px;
+    margin-right: 40px;
+}
+
+.stretchb {
+    border-style: none;
+    background-color: green;
+    font-size: 18px;
+    padding: 8px 16px 8px 16px;
+    color: white;
+    transition: padding 0.3s;
+    cursor: pointer;
+}
+
+.stretchb:hover {
+    padding: 16px 31px 16px 31px;
+    text-align: center;
+}
+
+.shadow {
+    background-color: green;
+    color: white;
+    border: none;
+    font-size: 18px;
+    padding: 8px 16px 8px 16px;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-right: 40px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.shadow:active {
+    margin-top: 3px;
+    margin-left: 23px;
+    box-shadow: none;
+}
+
+.uno {
+    border-style: none;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 8px 15px 8px 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+    
+    transition: padding 0.3s,
+    margin 0.15s;
+}
+
+.uno:hover {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
