@@ -1,0 +1,253 @@
+.esquinas-redondas {
+    height: 100px;
+    width: 200px;
+    border-radius: 18px;
+}
+
+.cuadrado {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    object-position: right;
+}
+
+
+.redondo {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    object-position: right;
+    border-radius: 50px;
+}
+
+.search-bar {
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: rgb(158, 158, 158);
+    color: rgb(87, 87, 87);
+    padding: 15px 10px 15px 15px;
+    font-size: 18px;
+}
+
+.logo-google{
+    width: 130px;
+    display: block;
+    margin-left: 130px;
+    margin-bottom: 10px;
+}
+
+.google-search {
+    margin-left: 20px;
+    padding: 10px 180px 10px 10px;
+    border-radius: 20px;
+    border-style: none;
+    box-shadow: 0 0px 6px rgba(0, 0, 0, 0.3);
+    outline: none;
+    display: block;
+}
+
+.email-text {
+    color: rgb(92, 92, 92);
+    line-height: 0px;
+}
+
+.email-box {
+    padding: 8px 180px 8px 20px;
+    outline: none;
+    border-radius: 5px;
+}
+
+.privacy-policy {
+    color: rgb(92, 92, 92);
+    font-size: 15px;
+}
+
+.btn-agree {
+    border-style: none;
+    background-color: rgb(33, 108, 174);
+    color: white;
+    padding: 12px 150px;
+    border-radius: 40px;
+    cursor: pointer;
+    outline: none;
+}
+
+.email2-box {
+    display: block;
+    margin-top: 8px;
+    outline: none;
+}
+
+.pass-box {
+    margin-top: 8px;
+    display: block;
+    outline: none;
+}
+
+.uber-ride {
+    font-size: 30px;
+    font-family: Montserrat;
+}
+
+.pickup-location {
+    border-style: none;
+    font-family: Montserrat;
+    background-color: rgb(224, 224, 224);
+    color: rgb(81, 81, 81);
+    padding: 12px 130px 12px 18px;
+    display: block;
+}
+
+.destination {
+    border-style: none;
+    font-family: Montserrat;
+    background-color: rgb(224, 224, 224);
+    color: rgb(81, 81, 81);
+    padding: 12px 130px 12px 18px;
+    margin-top: 10px;
+    display: block;
+}
+
+.request {
+    font-size: 13px;
+    border-style: none;
+    background-color: black;
+    font-family: Montserrat;
+    color: white;
+    padding: 16px 20px 16px 20px;
+    margin-top: 10px;
+}    
+
+.schedule {
+    font-size: 13px;
+    border-style: none;
+    font-family: Montserrat;
+    background-color: rgb(224, 224, 224);
+    color: black;
+    padding: 16px 15px 16px 15px;
+    margin-left: 6px;
+}
+
+.div-cat {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+}
+
+.gato-img {
+    margin-top: 20px;
+    height: 100px;
+    width: 150px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.cat-name {
+    font-family: Montserrat;
+    font-weight: bold;
+    line-height: 0px;
+    margin-left: 6px;
+}
+
+.mutual-friends {
+    color: rgb(165, 165, 165);
+    line-height: 0px;
+    margin-top: 22px;
+    margin-left: 6px;
+}
+
+.add-friend {
+    border-style: none;
+    background-color: blue;
+    color: white;
+    margin-top: 0px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+    cursor: pointer;
+}
+
+.div-dog {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.dog-img {
+    margin-top: 20px;
+    height: 100px;
+    width: 150px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.dog-name {
+    font-family: Montserrat;
+    font-weight: bold;
+    line-height: 0px;
+    margin-left: 6px;
+}
+
+.mutual-friends2 {
+    color: rgb(165, 165, 165);
+    line-height: 0px;
+    margin-top: 22px;
+    margin-left: 6px;
+}
+
+.add-friend2 {
+    border-style: none;
+    background-color: blue;
+    color: white;
+    margin-top: 0px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+    cursor: pointer;
+}
+
+.div-bird {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.bird-img {
+    margin-top: 20px;
+    height: 100px;
+    width: 150px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.bird-name {
+    font-family: Montserrat;
+    font-weight: bold;
+    line-height: 0px;
+    margin-left: 6px;
+}
+
+.mutual-friends3 {
+    color: rgb(165, 165, 165);
+    line-height: 0px;
+    margin-top: 22px;
+    margin-left: 6px;
+}
+
+.add-friend3 {
+    border-style: none;
+    background-color: blue;
+    color: white;
+    margin-top: 0px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+    cursor: pointer;
+}
+
+.friend-list {
+    margin-top: 20px;
+    margin-left: 20px;
+}
