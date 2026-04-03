@@ -31,9 +31,15 @@
 
 .logo-google{
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 200px;
     display: block;
     margin-left: 160px;
+=======
+    width: 130px;
+    display: block;
+    margin-left: 130px;
+>>>>>>> c2f84da054d8bfd126ad537ddfb5c65cbb831a02
 =======
     width: 130px;
     display: block;
@@ -45,8 +51,12 @@
 .google-search {
     margin-left: 20px;
 <<<<<<< HEAD
+<<<<<<< HEAD
     padding: 10px 20px 10px 15px;
     width: 450px;
+=======
+    padding: 10px 180px 10px 10px;
+>>>>>>> c2f84da054d8bfd126ad537ddfb5c65cbb831a02
 =======
     padding: 10px 180px 10px 10px;
 >>>>>>> c2f84da054d8bfd126ad537ddfb5c65cbb831a02
@@ -64,11 +74,17 @@
 
 .email-box {
 <<<<<<< HEAD
+<<<<<<< HEAD
     padding: 8px 12px 8px 12px;
     width: 200px;
     outline: none;
     border-radius: 5px;
     border-width: 1px;
+=======
+    padding: 8px 180px 8px 20px;
+    outline: none;
+    border-radius: 5px;
+>>>>>>> c2f84da054d8bfd126ad537ddfb5c65cbb831a02
 =======
     padding: 8px 180px 8px 20px;
     outline: none;
