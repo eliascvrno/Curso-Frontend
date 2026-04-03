@@ -1,0 +1,149 @@
+p {
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.thumbnail {
+    width: 300px;
+    display: block;
+}
+
+.video-title {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 2px;
+}
+
+.video-preview{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+.channel-picture {
+    display: inline-block;
+    width: 40px;
+    vertical-align: top;
+}
+
+.video-info {
+    display: inline-block;
+    width: 250px;
+}
+
+.profile-picture {
+    width: 40px;
+    border-radius: 50px;
+}
+
+.thumbnail-row {
+    margin-bottom: 8px;
+}
+
+.video-autor,
+.video-stats {
+    font-size: 12px;
+    color: rgb(96,96,96);
+}
+
+.video-author {
+    margin-bottom: 4px;
+    font-size: 12px;
+}
+
+.user-row {
+display: flex;
+align-items: center; /* Alineación vertical central */
+justify-content: space-between; /* Separa info de botón */
+padding: 10px;
+}
+
+.user-info {
+display: flex;
+align-items: center; /* Alinea la foto con el texto */
+gap: 15px; /* Espacio entre foto y texto */
+}
+
+.follow-btn {
+  /* Tus estilos de botón (color, bordes redondeados, etc.) */
+padding: 8px 20px;
+background-color: #87ceeb;
+border-radius: 20px;
+border: none;
+color: white;
+cursor: pointer;
+}
+
+.animal-photos {
+    width: 50px;
+    border-radius: 60px;
+    align-items: center;
+}
+
+.foto-animal {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.amigo-mrb {
+    width: 30px;
+    height: 30px;
+    border-radius: 60px;
+}
+
+.agregar-friend {
+    background-color: #1877f2;
+    color: white;
+    border-style: none;
+    font-weight: bold;
+    width: 100%;
+    border-radius: 6px;
+    margin-top: 6px;
+    padding: 8px 0;
+    cursor: pointer;
+}
+
+.foto-anim {
+    display: inline-block;
+    height: 100px;
+    width: 100%;
+}
+
+.card-friends {
+    display: inline-block;
+    width: 150px;
+    margin: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.mutales {
+    display: flex;
+    align-items: center;
+}
+
+.nombre-animal {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.mutuals {
+    font-size: 12px;
+    color: rgb(161, 161, 161);
+    display: inline-block;
+    margin-left: 6px;
+
+}
+
+.card-content {
+    padding: 10px;
+}
+
+.box-friends {
+    display: inline-block;
+}
